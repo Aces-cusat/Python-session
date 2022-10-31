@@ -1,4 +1,4 @@
-# Python session Assignment submission
+# Python Session Assignment submission
 
 - **Fork this repository**
     
@@ -34,5 +34,6 @@
     
     ![Untitled](images/Untitled%202.png)
     
+
 ## Keep practicing more questions
-.......
+
