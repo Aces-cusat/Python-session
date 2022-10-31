@@ -1,4 +1,4 @@
-# Python session Assignment submission
+# Python Session Assignment submission
 
 - **Fork this repository**
     
